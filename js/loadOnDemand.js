@@ -83,4 +83,5 @@ class Load {
 
 const loadthis = new Load();
 
+/* logs this.elCreate is not a function */
 loadthis.didThatJustWork();
